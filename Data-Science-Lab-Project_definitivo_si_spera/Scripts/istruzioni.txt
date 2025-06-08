@@ -1,8 +1,0 @@
-The goal of the project is to write a synthetic (15 pages) scientific article.
-We have to choose a topic which is not the same as the datasets.
-We have to first make some questions (suppose to be a policy maker, or a scientist, someone that is interested in understanding the topic or the problem), the more practical part is not the main point.
-Possible conclusion: data cannot answer our questions (are not enough or not enough powerful).
-We are not measured on the complexity of the algorithm, but on the question and the steps we make (which must be motivated and reasonable).
-We have to develop a complex reasoning.
-Do not use standard sentences!!!
-Motivate why we choose a specific model instead of another model.
